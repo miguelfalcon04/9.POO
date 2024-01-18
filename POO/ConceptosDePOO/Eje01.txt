@@ -1,0 +1,5 @@
+Ejercicio 1
+¿Cuáles serían los atributos de la clase PilotoDeFormula1? ¿Se te ocurren algunas
+instancias de esta clase?
+Los atributos serían: edad, peso, nombre, apellido
+Algunas instancias serían: fernandoAlonso, felipeMassa
